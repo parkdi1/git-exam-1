@@ -6,11 +6,13 @@ git 사용 실습
 
 md = markdown 
 
-```java
-function testIO {}
+```javascript
+function test () {}
 
 
-- [x] 할일했음
-- [ ] 할 일 안 함
+-[x] 할일했음
+-[ ] 할 일 안 함
 
 -[google.com](http://google.com)
+
+
